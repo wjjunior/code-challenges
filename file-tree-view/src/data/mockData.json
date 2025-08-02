@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Web",
+    "type": "folder",
+    "children": [
+      { "name": ".github", "type": "folder", "children": [] },
+      { "name": ".yarn", "type": "folder", "children": [] },
+      { "name": "default.conf", "type": "file" },
+      {
+        "name": "src",
+        "type": "folder",
+        "children": [
+          { "name": "index.js", "type": "file" },
+          { "name": "App.js", "type": "file" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "README.md",
+    "type": "file"
+  },
+  {
+    "name": ".env",
+    "type": "file"
+  }
+]
